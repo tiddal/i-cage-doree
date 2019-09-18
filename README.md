@@ -14,7 +14,7 @@
 
 ## Side Notes:
 
-To try this project, grab the first two files from one of the examples to the main directory. Then, run the command
+To try this project, grab the first two files from one of the examples directory to the main directory. Then, run the command
 
     python cyberConc.py <experts_file> <clients_file>
 
